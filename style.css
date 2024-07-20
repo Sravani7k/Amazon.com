@@ -148,3 +148,57 @@
     background-size:cover;
     height:270px;
 }
+/**Footer1**/
+.footer1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:48px;
+    padding:18px 0;
+    font-size:13px;
+    color:#ffffff;
+    background-color: #232f3e;
+}
+.footer2{
+    height:310px;
+    background-color: #1b232e;
+    color:#DDDDDD;
+    display: flex;
+    justify-content:center;
+    border-bottom: 1.5px solid white;
+}
+ul{
+    margin-top: 25px;
+    width:18%;
+}
+ul p{
+    font-size:1rem;
+    font-weight: bold;
+}
+ul a{
+    font-size:0.75rem;
+    margin-top:13px;
+    display: block;
+}
+.footer3{
+    display:flex;
+    justify-content: center;
+    height:70px;
+    width:100%;
+    background-color:#1b232e
+}
+.i1{
+    background-image: url("amazon-logo.png");
+    height:50px;
+    width:90px;
+    background-size:cover;
+}
+.footer4{
+    height:50x;
+    color: #cccccc;
+    background-color:#1b232e;
+    text-align: center;
+}
+.d1 a{
+    padding-right:10px;
+}
